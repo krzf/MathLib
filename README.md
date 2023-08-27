@@ -1,2 +1,3 @@
 # MathLib
-changeme
+Implementation of math library for C. 
+
